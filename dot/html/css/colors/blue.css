@@ -1,0 +1,280 @@
+/*
+* Color Scheme
+* Blue
+*/
+
+/* #Links
+================================================== */
+a { color: #396991; 
+}
+	
+.tagline, .side-tagline {
+	color: #396991;
+}
+	
+.menu-bar {
+	border-top-color:#396991;
+}
+
+a.home-btn:hover {
+	color: #396991
+}
+
+.home-slider #bx-pager h5 {
+	color: #396991;
+}
+
+.carousel-controls a {
+	background-color: #A0B6C7;
+}
+
+.carousel-controls a:hover {
+	background-color: #396991;
+}
+
+.tools a:hover {
+	color: #396991;
+}
+
+.links-tools a:hover {
+	color: #396991;
+}
+
+.etabs li a:hover, .etabs li a.active:hover {
+	background-color: #396991;
+}
+
+.etabs li a.active { 
+	color: #396991;
+}
+
+.agent-list .profile-meta {
+	color: #396991;
+}
+
+.social-aside {
+	border-left: 3px solid #396991;
+}
+
+.social-aside:before {
+	border-left-color: #396991;
+}
+
+.social-aside a:hover {
+	background-color: #396991;
+}
+
+ul.prop-data .price {
+	color: #396991;
+}
+
+.toolbar .dollar,
+.toolbar .map {
+	border-right: 1px dotted #396991;
+}
+
+.property-listing h4 {
+	color: #396991;
+}
+
+.property-details span { color: #396991; }
+
+.login-form span {
+	color: #396991;
+}
+
+.estimate span {
+	color: #396991;
+}
+
+.progress-label {
+	background-color: #396991;
+}
+
+.tipsy-inner { 
+	color: #396991; 
+}
+
+.social a {
+	background-color: #A0B6C7;
+}
+
+.social a:hover {
+	background-color: #37678D;
+}
+
+a.home-btn {
+	color: #99B3CB;
+}
+
+.home-slider #bx-pager a.active, .home-slider #bx-pager a:hover  {
+	border-right-color: #9AB4CB;
+}
+
+.top-bar {
+	background: url(../../images/colors/blue/bg-top-bar.png) repeat-x;
+}
+
+.register-btn {
+	background-color: #254F71;
+}
+.register-btn:hover {
+	background-color: #96B0C7;
+}
+
+.switcher a:hover, .switcher a.active {
+	background-color: #3A6B93;
+}
+
+.switcher a {
+	background-color: #99B3CB;
+}
+
+.list-grid-gallery figure a.camera {
+	background: url(../../images/colors/blue/camera-count-ico.png) no-repeat;
+}
+
+.mosaic-gallery figure a:hover {
+	background: url(../../images/colors/blue/sale-ico.png) no-repeat left top;
+}
+
+.dollar 	{ background: url(../../images/colors/blue/dollar-tag-ico.png) no-repeat left center; }
+.map 		{ background: url(../../images/colors/blue/pointer-ico.png) no-repeat 2px center; }
+.next-arr 	{ background: url(../../images/colors/blue/mini-right-arr.png) no-repeat right center; }
+
+.property-details li {
+	background: url(../../images/colors/blue/prop-list-sprite.png) no-repeat left top;
+}
+
+#price-range .ui-slider-handle,
+#beds-range .ui-slider-handle,
+#baths-range .ui-slider-handle,
+#meters-range .ui-slider-handle {
+	background: transparent url(../../images/colors/blue/slider-handler.png) no-repeat center top;
+}
+
+ul.arrow li {
+	background: url(../../images/colors/blue/mini-right-arr.png) no-repeat left 10px;
+}
+
+.button,
+	button,
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"] {
+	  background: #346993;
+	  background: -webkit-gradient(linear, 0 0, 0 100%, from(#346993), to(#205684));
+	  background: -webkit-linear-gradient(#346993 0%, #205684 100%);
+	  background: -moz-linear-gradient(#346993 0%, #205684 100%);
+	  background: -o-linear-gradient(#346993 0%, #205684 100%);
+	  background: linear-gradient(#346993 0%, #205684 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#346993', endColorstr='#205684',GradientType=0 );
+}
+
+.button:hover,
+	button:hover,
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover {
+		background: #46769c;
+		background: -moz-linear-gradient(top,  #46769c 0%, #215785 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#46769c), color-stop(100%,#215785));
+		background: -webkit-linear-gradient(top,  #46769c 0%,#215785 100%);
+		background: -o-linear-gradient(top,  #46769c 0%,#215785 100%);
+		background: -ms-linear-gradient(top,  #46769c 0%,#215785 100%);
+		background: linear-gradient(to bottom,  #46769c 0%,#215785 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#46769c', endColorstr='#215785',GradientType=0 );
+}
+
+.radio-list li:not(#foo) input[type="radio"]:checked + label:before,
+.filter-list a.current:before,
+.filter-list a:hover:before {
+	border: 5px solid #96B0C7;
+	border-color: #96B0C7 transparent transparent transparent; 
+}
+
+.radio-list.v2 label,
+.filter-list a {
+	background-color: #96B0C7;
+}
+
+.radio-list li:not(#foo) input[type="radio"]:checked + label {
+	background-color: #96B0C7;
+}
+	
+.list-grid-gallery article:hover {
+	border-color: #3A6B93;
+}		
+
+.gallery-in-two .price span {
+	color: #3A6B93;
+}
+
+.ui-slider-range {
+	background: url(../../images/colors/blue/form-slider-bg.gif) repeat-x center top !important;
+}
+
+#years .ui-slider-handle {
+	background-image: url(../../images/colors/blue/form-years-sp.png);
+}
+
+.bx-slider-points .price span {
+	color: #3A6B93;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: #3A6B93;
+}
+
+.tools {
+	background-color: #99B3CB;
+}
+
+.mini-tabs .etabs li a {
+	color: #99B3CB;
+}
+
+.text span, .mosaic-gallery .price span {
+	color: #3A6B93;
+}
+
+.social-aside a {
+	background: #A0B6C7;
+}
+
+.mosaic-gallery .table-list {
+	color: #3A6B93;
+}
+
+.holder .jp-previous, .holder .jp-next {
+	color: #99B3CB;
+}
+
+.holder a.jp-disabled, a.jp-disabled:hover {
+	color: #99B3CB;
+}
+
+.holder a:hover, .holder a.jp-current, a.jp-current:hover {
+	color: #396991;
+	text-decoration: none;
+}
+.follow{
+	border-top: 2px solid #D9E7F3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

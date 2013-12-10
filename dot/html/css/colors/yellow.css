@@ -1,0 +1,274 @@
+/*
+* Color Scheme
+* Blue
+*/
+
+/* #Links
+================================================== */
+a { color: #9e8f66; 
+}
+	
+.tagline, .side-tagline {
+	color: #9e8f66;
+}
+	
+.menu-bar {
+	border-top-color:#9e8f66;
+}
+
+a.home-btn:hover {
+	color: #9e8f66
+}
+
+.home-slider #bx-pager h5 {
+	color: #9e8f66;
+}
+
+.carousel-controls a {
+	background-color: #ccb986;
+}
+
+.carousel-controls a:hover {
+	background-color: #9e8f66;
+}
+
+.tools a:hover {
+	color: #9e8f66;
+}
+
+.links-tools a:hover {
+	color: #9e8f66;
+}
+
+.etabs li a:hover, .etabs li a.active:hover {
+	background-color: #9e8f66;
+}
+
+.etabs li a.active { 
+	color: #9e8f66;
+}
+
+.agent-list .profile-meta {
+	color: #9e8f66;
+}
+
+.social-aside {
+	border-left: 3px solid #9e8f66;
+}
+
+.social-aside:before {
+	border-left-color: #9e8f66;
+}
+
+.social-aside a:hover {
+	background-color: #9e8f66;
+}
+
+ul.prop-data .price {
+	color: #9e8f66;
+}
+
+.toolbar .dollar,
+.toolbar .map {
+	border-right: 1px dotted #9e8f66;
+}
+
+.property-listing h4 {
+	color: #9e8f66;
+}
+
+.property-details span { color: #9e8f66; }
+
+.login-form span {
+	color: #9e8f66;
+}
+
+.estimate span {
+	color: #9e8f66;
+}
+
+.progress-label {
+	background-color: #9e8f66;
+}
+
+.tipsy-inner { 
+	color: #9e8f66; 
+}
+
+.social a {
+	background-color: #ccb986;
+}
+
+.social a:hover {
+	background-color: #9e8f66;
+}
+
+a.home-btn {
+	color: #9e8f66;
+}
+
+.home-slider #bx-pager a.active, .home-slider #bx-pager a:hover  {
+	border-right-color: #9e8f66;
+}
+
+.top-bar {
+	background: url(../../images/colors/yellow/bg-top-bar.png) repeat-x;
+}
+
+.register-btn {
+	background-color: #9e8f66;
+}
+
+.register-btn:hover {
+	background-color: #9e8f66;
+}
+
+.switcher a:hover, .switcher a.active {
+	background-color: #9e8f66;
+}
+
+.switcher a {
+	background-color: #ccb986;
+}
+
+.list-grid-gallery figure a.camera {
+	background: url(../../images/colors/yellow/camera-count-ico.png) no-repeat;
+}
+
+.mosaic-gallery figure a:hover {
+	background: url(../../images/colors/yellow/sale-ico.png) no-repeat left top;
+}
+
+.dollar 	{ background: url(../../images/colors/yellow/dollar-tag-ico.png) no-repeat left center; }
+.map 		{ background: url(../../images/colors/yellow/pointer-ico.png) no-repeat 2px center; }
+.next-arr 	{ background: url(../../images/colors/yellow/mini-right-arr.png) no-repeat right center; }
+
+.property-details li {
+	background: url(../../images/colors/yellow/prop-list-sprite.png) no-repeat left top;
+}
+
+#price-range .ui-slider-handle,
+#beds-range .ui-slider-handle,
+#baths-range .ui-slider-handle,
+#meters-range .ui-slider-handle {
+	background: transparent url(../../images/colors/yellow/slider-handler.png) no-repeat center top;
+}
+ul.arrow li {
+	background: url(../../images/colors/yellow/mini-right-arr.png) no-repeat left 10px;
+}
+
+.button,
+	button,
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"] {
+	  background: #9e8f66;
+	  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccb986), to(#9e8f66));
+	  background: -webkit-linear-gradient(#ccb986 0%, #9e8f66 100%);
+	  background: -moz-linear-gradient(#ccb986 0%, #9e8f66 100%);
+	  background: -o-linear-gradient(#ccb986 0%, #9e8f66 100%);
+	  background: linear-gradient(#ccb986 0%, #9e8f66 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccb986', endColorstr='#9e8f66',GradientType=0 );
+}
+
+
+.button:hover,
+	button:hover,
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover {
+		background: #9e8f66;
+		background: -moz-linear-gradient(top,  #9e8f66 0%, #ccb986 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ccb986), color-stop(100%,#215785));
+		background: -webkit-linear-gradient(top,  #9e8f66 0%,#ccb986 100%);
+		background: -o-linear-gradient(top,  #9e8f66 0%,#ccb986 100%);
+		background: -ms-linear-gradient(top,  #9e8f66 0%,#ccb986 100%);
+		background: linear-gradient(to bottom,  #9e8f66 0%,#ccb986 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9e8f66', endColorstr='#ccb986',GradientType=0 );
+}
+
+.radio-list li:not(#foo) input[type="radio"]:checked + label:before,
+.filter-list a.current:before,
+.filter-list a:hover:before {
+	border: 5px solid #9e8f66;
+	border-color: #9e8f66 transparent transparent transparent; 
+}
+
+.radio-list.v2 label,
+.filter-list a {
+	background-color: #9e8f66;
+}
+
+.radio-list li:not(#foo) input[type="radio"]:checked + label {
+	background-color: #9e8f66;
+}
+
+.list-grid-gallery article:hover {
+	border-color: #9e8f66;
+}
+
+.gallery-in-two .price span {
+	color: #9e8f66;
+}
+
+.ui-slider-range {
+	background: url(../../images/colors/yellow/form-slider-bg.gif) repeat-x center top !important;
+}
+
+#years .ui-slider-handle {
+	background-image: url(../../images/colors/yellow/form-years-sp.png);
+}
+
+.bx-slider-points .price span {
+	color: #9e8f66;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: #9e8f66;
+}
+
+.tools {
+	background-color: #ccb986;
+}
+
+.mini-tabs .etabs li a {
+	color: #9e8f66;
+}
+
+.text span, .mosaic-gallery .price span {
+	color: #9e8f66;
+}
+
+.social-aside a {
+	background: #ccb986;
+}
+
+.mosaic-gallery .table-list {
+	color: #9e8f66;
+}
+
+.holder .jp-previous, .holder .jp-next {
+	color: #9e8f66;
+}
+
+.holder a.jp-disabled, a.jp-disabled:hover {
+	color:  #ccb986;
+}
+
+.holder a:hover, .holder a.jp-current, a.jp-current:hover {
+	color: #9e8f66;
+}
+.follow{
+	border-top: 2px solid #ccb986;
+}
+
+
+
+
+
+
+
+
+
+
